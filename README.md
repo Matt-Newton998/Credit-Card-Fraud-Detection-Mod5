@@ -89,9 +89,9 @@ A Randon Forest was chose as the final model. The resuslts below are from the no
 
 ### Threshold Selection
 
-Prevalence = 0.00172
-Fraud coef = 122.21 (Mean Amount Fraud Transaction)
-normal coef = 88.29 (Mean Amount Non-Fraud Transaction)
+- Prevalence = 0.00172
+- Fraud coef = 122.21 (Mean Amount Fraud Transaction)
+- Normal coef = 88.29 (Mean Amount Non-Fraud Transaction)
 
 ![](images/Picture3.png)
 
