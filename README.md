@@ -49,8 +49,11 @@ Therefore the model selection has a priority rank of;
 
     b) We do not want an excessive amount of non-fraudulent transactions being flagged as fraudulent. Firstly, as customers will get annoyed if too many transactions are being questioned, remembering this is still not as bad as then being stolen from, but still a priority.
 
-3) Having a manageable number of fraud cases to deal with per day.
-    a) For the wider business case,  having a  manageable number of case of fraudulent transaction to follow up on. Balancing the losses to the customer in refunds to the cost of highering more staff to deal with the larger flagged fraudulent cases.  
+3) Having a manageable number of fraud cases to deal with per day.(Threshold Selection)
+
+    a) For the wider business case,  having a  manageable number of case of fraudulent transaction to follow up on. i.e. So the number of staff and how many cases can they deal with per day. 
+    
+    b) Balancing; the losses incured due to customer refunds, to the cost of highering more staff to deal with the larger flagged fraudulent cases.  
 
 
 The cost functions for chosing the threshold for the models will be based around the assumed cost of either reimbusing a a customer with money that was stolen or the cost of chasing/blocking non-fraudulent transactions. Along with the total number of flagged fraudulant cases the bank can deal with per day.
